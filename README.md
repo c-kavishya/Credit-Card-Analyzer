@@ -47,7 +47,7 @@ Instead of executing extraction and financial advisory in a single prompt, the s
 
 * **Language:** Python
 * **Orchestration:** LangChain (`langchain-google-genai`)
-* **Foundation Models:** Google Gemini / Gemma (`gemma-4-31b-it`, `gemini-1.5-flash`, `gemini-3.6-flash`)
+* **Foundation Models:** Google Gemini / Gemma (`gemma-4-31b-it`)
 * **Frontend UI:** Streamlit
 * **Environment Management:** `python-dotenv`
 
