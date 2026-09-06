@@ -142,8 +142,6 @@ You can paste plain unstructured lines into the application:
 05/25 Interest Charge Purchases $41.80
 05/28 Luxury Restaurant Dinner $185.00
 
-```
 
-```
 
-```
+
