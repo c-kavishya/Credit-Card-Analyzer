@@ -1,6 +1,3 @@
-Here is a complete, professional `README.md` file customized for your **Credit Card & Bank Statement Auditor** repository:
-
-```markdown
 # 💳 Credit Card & Bank Statement Auditor
 
 An AI-powered personal finance auditor built with **LangChain**, **Google Generative AI**, and **Streamlit**. 
