@@ -1,0 +1,13 @@
+05/02 Supermarket Groceries $112.40
+05/03 Apple Services Recurring $9.99
+05/04 DoorDash Food Delivery $48.20
+05/06 Netflix 4K UHD $22.99
+05/08 Uber Rides $31.50
+05/10 Anytime Fitness Gym $64.00
+05/11 Spotify Family $16.99
+05/12 Late Payment Penalty Fee $39.00
+05/14 DoorDash Food Delivery $52.10
+05/18 Electricity Utility Bill $145.00
+05/22 Amazon Prime Monthly $14.99
+05/25 Interest Charge Purchases $41.80
+05/28 High-End Restaurant Dinner $185.00
